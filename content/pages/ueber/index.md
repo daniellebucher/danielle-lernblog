@@ -1,13 +1,13 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Danielle Bucher Strahm
 
-info@lernblog.ch
+mail@daniellebucher.ch
 
 Beschreibung, wer ich bin...
