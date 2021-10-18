@@ -4,7 +4,7 @@ date = "2021-10-18"
 draft = false
 pinned = false
 image = "colearning.jpg"
-description = "Ich bin Danielle"
+description = "Salut"
 footnotes = "[](https://www.colearningbern.ch/)"
 +++
 <!--StartFragment-->
