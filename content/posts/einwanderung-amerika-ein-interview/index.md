@@ -46,8 +46,4 @@ Keine Ahnung.
 
 **Wenn ja, unter welchen Voraussetzungen?**
 
-Es könnte nochmal passieren wenn, ein weiterer  Kontinent gefunden wird oder vielleicht
-
-wenn man einen neuen Planet mit den richtigen voraussetzungen findet und dann zu ihm
-
-fliegt.
+Es könnte nochmal passieren wenn, ein weiterer  Kontinent gefunden wird oder vielleicht wenn man einen neuen Planet mit den richtigen voraussetzungen findet und dann zu ihm fliegt.
