@@ -14,9 +14,7 @@ Papa hat es auf SRF Myschool gesehen und mir vorgeschlagen.
 
 **War die Recherche einfach?**
 
-Es geht so, ich habe vor allem gegooglet. Nervig war wenn ich auf eine Frage sehr lange
-
-keine Antwort gefunden habe und sie dann immer wieder umformulieren musste.
+Es geht so, ich habe vor allem gegooglet. Nervig war wenn ich auf eine Frage sehr lange keine Antwort gefunden habe und sie dann immer wieder umformulieren musste.
 
 
 
