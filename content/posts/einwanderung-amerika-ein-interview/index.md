@@ -42,8 +42,6 @@ Keine Ahnung.
 
 
 
-**Könnte so eine ähnliche Auswanderung heute oder in Zukunft nochmals passieren?**
-
-**Wenn ja, unter welchen Voraussetzungen?**
+**Könnte so eine ähnliche Auswanderung heute oder in Zukunft nochmals passieren? Wenn ja, unter welchen Voraussetzungen?**
 
 Es könnte nochmal passieren wenn, ein weiterer  Kontinent gefunden wird oder vielleicht wenn man einen neuen Planet mit den richtigen voraussetzungen findet und dann zu ihm fliegt.
