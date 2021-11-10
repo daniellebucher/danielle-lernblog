@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Danielle Bucher Strahm"
-image = ""
+image = "/media/beer.png"
 email = ""
 +++
