@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = ""
-logo = ""
+icon = "/media/beer.png"
+logo = "/media/beer.png"
 image = ""
 color = ""
 +++
-
