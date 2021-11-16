@@ -1,7 +1,7 @@
 +++
 title = "Ich spiele Akkordeon"
 date = "2021-11-16"
-draft = true
+draft = false
 pinned = false
 image = "akkordeon.jpg"
 description = "Ich spiele Akkordeon"
