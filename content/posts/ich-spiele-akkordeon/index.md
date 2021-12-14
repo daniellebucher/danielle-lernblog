@@ -4,7 +4,7 @@ date = "2021-11-16"
 draft = false
 pinned = false
 image = "akkordeon.jpg"
-description = "Ich spiele Akkordeon"
+description = "Ein paar Takte Musik:"
 +++
 Einmal in der Woche gehe ich ins Konsi in den Akkordeonunterricht. Das hier ist eines meiner letzten Stücke, das ich geübt habe. Es heisst Kaipaus.
 
