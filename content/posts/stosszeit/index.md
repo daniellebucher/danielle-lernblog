@@ -1,7 +1,7 @@
 +++
 title = "Stosszeit"
 date = "2021-12-14"
-draft = false
+draft = true
 pinned = false
 image = "rush-hour.jpg"
 description = "Neulich habe ich eine Gymer-Prüfungsserie gelöst. Dabei musste ich einen Text zum Thema \"Schulweg mit dem ÖV\" und dem Titel \"Stosszeit\" schreiben:"
