@@ -4,6 +4,7 @@ date = "2021-12-31"
 draft = false
 pinned = false
 image = "austernseitling-2-.jpg"
+description = "Im Effinger haben wir mit dem Projekt „Pilzfarm“ gestartet."
 +++
 <!--StartFragment-->
 
