@@ -1,7 +1,7 @@
 +++
 title = "Aktiv- und Passivsätze"
 date = "2022-02-08"
-draft = false
+draft = true
 pinned = false
 description = "Ich habe gerade an dem Thema Aktiv- und Passivsätze gearbeitet. Hier sind einige wichtige Regeln dazu."
 +++
